@@ -1,0 +1,6 @@
+# ignore data
+model/data
+model/models
+
+*.ipynb_checkpoints
+
