@@ -1,6 +1,7 @@
 # ignore data
 model/data
 model/models
+dev/mnist/mnist-data
 
 *.ipynb_checkpoints
 
